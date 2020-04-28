@@ -1,0 +1,2 @@
+# dynamicsproj
+fish go yeet
